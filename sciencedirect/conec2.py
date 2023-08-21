@@ -8,7 +8,7 @@ def standardize_field(value):
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='lelemaia',
+    password='sua-senha',
     database='projeto2'
 )
 cursor = conn.cursor()
@@ -19,7 +19,7 @@ api_url = "https://api.elsevier.com/content/search/sciencedirect"
 # Definindo os parâmetros da consulta
 params = {
     "query": "bigdata",
-    "apiKey": "7f59af901d2d86f78a1fd60c1bf9426a",
+    "apiKey": "sua-chave-api",
     "count": 30,
     "startPage": 1
 }
