@@ -31,7 +31,7 @@ My Social Networks 😉:
 
 GitHub: https://github.com/lelemaia
 
-Linkedin: https://www.linkedin.com/in/lethyciamaia000o000oo/
+Linkedin: https://www.linkedin.com/in/lethyciamaia000o000/
 
 Email: lethyciamaiacontato@gmail.com
 
