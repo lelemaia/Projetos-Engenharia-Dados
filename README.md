@@ -1,4 +1,4 @@
-# Projeto-Engenharia-Dados
+# Projetos-Engenharia-Dados
 Automatização da coleta e padronização de dados bibliográficos relevantes por meio de buscas automatizadas em sistemas acadêmicos.
 
 
@@ -17,7 +17,7 @@ Os dados coletados incluem informações como nome dos autores, título do artig
 - Armazenamento eficiente dos dados em um banco de dados MySQL, possibilitando fácil acesso e gerenciamento.
 
 # Instruções de Uso:
-1. Clone este repositório: `git clone https://github.com/lelemaia/Projeto-Engenharia-Dados.git`
+1. Clone este repositório: `git clone https://github.com/lelemaia/Projetos-Engenharia-Dados.git`
 2. Abra o Visual Studio Code.
 3. No menu "File" (Arquivo), selecione "Open Folder" (Abrir Pasta) e escolha a pasta do repositório clonado.
 5. Configure as fontes e a string de busca no arquivo de configuração YAML.
